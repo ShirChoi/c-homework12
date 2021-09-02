@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.exe
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.deps.json
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.runtimeconfig.json
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.runtimeconfig.dev.json
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.dll
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\ref\Problem.dll
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\bin\Debug\net5.0\Problem.pdb
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.AssemblyInfo.cs
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.dll
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\ref\Problem.dll
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.pdb
+C:\Users\User\Desktop\alif\c#\hw\homework12\Problem\obj\Debug\net5.0\Problem.genruntimeconfig.cache
